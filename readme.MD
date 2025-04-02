@@ -16,7 +16,7 @@ Kidney and renal pelvic cancer are a significant cause of cancer-related deaths,
 
 If you find this research paper or the code in this repository useful, please consider citing:
 
-[Insert citation here]
+Caterer, Z., Langlois, J., McKeown, C., Hady, M., Stumo, S., Setty, S., Walsh, M., & Gomes, R. (2025). Exploring Feature Selection with Deep Learning for Kidney Tissue Microarray Classification Using Infrared Spectral Imaging. Bioengineering, 12(4), 366. [doi.org/10.3390/bioengineering12040366](https://doi.org/10.3390/bioengineering12040366)
 
 ## Funding
 
